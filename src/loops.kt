@@ -17,6 +17,10 @@ fun main(args: Array<String>) {
 
     var arr3: Array<Int> = arrayOf(3,6,9)
 
+    for (i in arr3) {
+        println(i)
+    }
+
     for (i in arr3.indices) {
         println("Multi 3: ${arr3[i]}")
     }
