@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fc6e1136-1c66-4c56-890d-ebcf3bbe8127" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/arrays.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ranges.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin1st/StringsKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kotlin1st/StringsKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/strings.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/strings.kt" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,38 +15,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Tut2.kt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Tut2.kt">
+      <file leaf-file-name="ranges.kt" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/ranges.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="66">
-              <caret line="3" column="38" selection-start-line="3" selection-start-column="38" selection-end-line="3" selection-end-column="38" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="strings.kt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/strings.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="15" column="4" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="4" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="arrays.kt" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/arrays.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="154">
-              <caret line="9" column="27" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="KotlinTut.kt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/KotlinTut.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="230">
-              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+            <state relative-caret-position="198">
+              <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
             </state>
           </provider>
         </entry>
@@ -72,14 +43,14 @@
         <option value="$PROJECT_DIR$/src/Tut2.kt" />
         <option value="$PROJECT_DIR$/src/strings.kt" />
         <option value="$PROJECT_DIR$/src/arrays.kt" />
+        <option value="$PROJECT_DIR$/src/ranges.kt" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="693" />
-    <option name="y" value="143" />
-    <option name="width" value="601" />
-    <option name="height" value="591" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="-3" />
+    <option name="width" value="1366" />
+    <option name="height" value="771" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -123,7 +94,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.ArraysKt">
+  <component name="RunManager" selected="Kotlin.RangesKt">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -151,6 +122,16 @@
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <option name="MAIN_CLASS_NAME" value="ArraysKt" />
+      <option name="WORKING_DIRECTORY" />
+    </configuration>
+    <configuration name="RangesKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="kotlin1st" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="RangesKt" />
       <option name="WORKING_DIRECTORY" />
     </configuration>
     <configuration name="StringsKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
@@ -199,9 +180,11 @@
       <item itemvalue="Kotlin.demo.KotlinTutKt" />
       <item itemvalue="Kotlin.StringsKt" />
       <item itemvalue="Kotlin.ArraysKt" />
+      <item itemvalue="Kotlin.RangesKt" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.RangesKt" />
         <item itemvalue="Kotlin.ArraysKt" />
         <item itemvalue="Kotlin.StringsKt" />
         <item itemvalue="Kotlin.demo.KotlinTutKt" />
@@ -222,7 +205,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="693" y="143" width="601" height="591" extended-state="0" />
+    <frame x="683" y="-3" width="683" height="771" extended-state="4" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="0" />
@@ -233,12 +216,12 @@
       <window_info anchor="right" id="Capture Analysis" order="2" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info active="true" anchor="bottom" id="Run" order="5" visible="true" weight="0.44444445" />
+      <window_info anchor="bottom" id="Run" order="5" weight="0.44444445" />
       <window_info anchor="bottom" id="Version Control" order="2" weight="0.23492064" />
-      <window_info anchor="right" id="Terminal" order="8" visible="true" weight="0.0" />
+      <window_info anchor="right" id="Terminal" order="8" weight="0.5622155" />
       <window_info id="Capture Tool" />
       <window_info id="Designer" />
-      <window_info content_ui="combo" id="Project" order="0" weight="0.78842676" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.5834598" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="6" weight="0.25" />
       <window_info id="UI Designer" />
@@ -290,13 +273,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/strings.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="15" column="4" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/KotlinTut.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="230">
@@ -304,10 +280,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/strings.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="15" column="4" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/arrays.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="9" column="27" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
+        <state relative-caret-position="242">
+          <caret line="11" column="66" selection-start-line="11" selection-start-column="66" selection-end-line="11" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ranges.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
         </state>
       </provider>
     </entry>
