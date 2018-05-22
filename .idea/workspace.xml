@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fc6e1136-1c66-4c56-890d-ebcf3bbe8127" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/exceptions.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lists.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nulls_kotlin.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin1st/META-INF/kotlin1st.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kotlin1st/META-INF/kotlin1st.kotlin_module" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,11 +15,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="lists.kt" pinned="false" current-in-tab="true">
+      <file leaf-file-name="lists.kt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/lists.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="286">
-              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+            <state relative-caret-position="158">
+              <caret line="21" column="4" selection-start-line="21" selection-start-column="4" selection-end-line="21" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="nulls_kotlin.kt" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/nulls_kotlin.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="424">
+              <caret line="24" column="4" selection-start-line="24" selection-start-column="4" selection-end-line="24" selection-end-column="4" />
             </state>
           </provider>
         </entry>
@@ -56,12 +63,13 @@
         <option value="$PROJECT_DIR$/src/collections.kt" />
         <option value="$PROJECT_DIR$/src/exceptions.kt" />
         <option value="$PROJECT_DIR$/src/lists.kt" />
+        <option value="$PROJECT_DIR$/src/nulls_kotlin.kt" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="277" />
-    <option name="y" value="34" />
+    <option name="x" value="131" />
+    <option name="y" value="322" />
     <option name="width" value="1024" />
     <option name="height" value="574" />
   </component>
@@ -246,12 +254,12 @@
       <window_info anchor="right" id="Capture Analysis" order="2" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info active="true" anchor="bottom" id="Run" order="5" visible="true" weight="0.3873016" />
+      <window_info anchor="bottom" id="Run" order="5" weight="0.5635104" />
       <window_info anchor="bottom" id="Version Control" order="2" weight="0.23492064" />
       <window_info anchor="right" id="Terminal" order="8" weight="0.6881639" />
       <window_info id="Capture Tool" order="1" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="6" weight="0.66905737" />
+      <window_info content_ui="combo" id="Project" order="6" weight="0.4456967" />
       <window_info id="Structure" order="5" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="6" weight="0.25" />
       <window_info id="UI Designer" order="3" />
@@ -401,8 +409,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/lists.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+        <state relative-caret-position="158">
+          <caret line="21" column="4" selection-start-line="21" selection-start-column="4" selection-end-line="21" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nulls_kotlin.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="424">
+          <caret line="24" column="4" selection-start-line="24" selection-start-column="4" selection-end-line="24" selection-end-column="4" />
         </state>
       </provider>
     </entry>
