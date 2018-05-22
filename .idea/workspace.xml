@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fc6e1136-1c66-4c56-890d-ebcf3bbe8127" name="Default" comment="" />
+    <list default="true" id="fc6e1136-1c66-4c56-890d-ebcf3bbe8127" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/src/loops.kt" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -21,11 +23,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="conditions.kt" pinned="false" current-in-tab="true">
+      <file leaf-file-name="conditions.kt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/conditions.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="16" column="45" selection-start-line="16" selection-start-column="45" selection-end-line="16" selection-end-column="45" />
+            <state relative-caret-position="242">
+              <caret line="26" column="5" lean-forward="true" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="loops.kt" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/loops.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="200">
+              <caret line="24" column="8" selection-start-line="24" selection-start-column="8" selection-end-line="24" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -51,12 +62,13 @@
         <option value="$PROJECT_DIR$/src/arrays.kt" />
         <option value="$PROJECT_DIR$/src/ranges.kt" />
         <option value="$PROJECT_DIR$/src/conditions.kt" />
+        <option value="$PROJECT_DIR$/src/loops.kt" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="682" />
-    <option name="y" value="93" />
+    <option name="x" value="635" />
+    <option name="y" value="125" />
     <option name="width" value="601" />
     <option name="height" value="591" />
   </component>
@@ -213,7 +225,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="613" y="103" width="601" height="591" extended-state="0" />
+    <frame x="635" y="125" width="601" height="591" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="0" />
@@ -226,7 +238,7 @@
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Run" order="5" weight="0.62222224" />
       <window_info anchor="bottom" id="Version Control" order="2" weight="0.23492064" />
-      <window_info anchor="right" id="Terminal" order="8" weight="1.0" />
+      <window_info anchor="right" id="Terminal" order="8" weight="0.66907775" />
       <window_info id="Capture Tool" />
       <window_info id="Designer" />
       <window_info content_ui="combo" id="Project" order="0" weight="0.30198914" />
@@ -311,8 +323,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/conditions.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="16" column="45" selection-start-line="16" selection-start-column="45" selection-end-line="16" selection-end-column="45" />
+        <state relative-caret-position="242">
+          <caret line="26" column="5" lean-forward="true" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/loops.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="24" column="8" selection-start-line="24" selection-start-column="8" selection-end-line="24" selection-end-column="8" />
         </state>
       </provider>
     </entry>
