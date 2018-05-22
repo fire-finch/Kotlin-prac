@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fc6e1136-1c66-4c56-890d-ebcf3bbe8127" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ranges.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="fc6e1136-1c66-4c56-890d-ebcf3bbe8127" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -15,11 +12,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="ranges.kt" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ranges.kt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ranges.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
+            <state relative-caret-position="56">
+              <caret line="7" column="68" selection-start-line="7" selection-start-column="68" selection-end-line="7" selection-end-column="68" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="conditions.kt" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/conditions.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="220">
+              <caret line="16" column="45" selection-start-line="16" selection-start-column="45" selection-end-line="16" selection-end-column="45" />
             </state>
           </provider>
         </entry>
@@ -44,13 +50,15 @@
         <option value="$PROJECT_DIR$/src/strings.kt" />
         <option value="$PROJECT_DIR$/src/arrays.kt" />
         <option value="$PROJECT_DIR$/src/ranges.kt" />
+        <option value="$PROJECT_DIR$/src/conditions.kt" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="y" value="-3" />
-    <option name="width" value="1366" />
-    <option name="height" value="771" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="682" />
+    <option name="y" value="93" />
+    <option name="width" value="601" />
+    <option name="height" value="591" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -205,23 +213,23 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="683" y="-3" width="683" height="771" extended-state="4" />
+    <frame x="613" y="103" width="601" height="591" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="0" />
       <window_info anchor="bottom" id="TODO" order="9" />
-      <window_info anchor="bottom" id="Messages" order="0" weight="0.32444444" />
+      <window_info anchor="bottom" id="Messages" order="0" weight="0.32380953" />
       <window_info anchor="right" id="Palette&#9;" order="1" />
       <window_info id="Image Layers" />
       <window_info anchor="right" id="Capture Analysis" order="2" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info anchor="bottom" id="Run" order="5" weight="0.44444445" />
+      <window_info anchor="bottom" id="Run" order="5" weight="0.62222224" />
       <window_info anchor="bottom" id="Version Control" order="2" weight="0.23492064" />
-      <window_info anchor="right" id="Terminal" order="8" weight="0.5622155" />
+      <window_info anchor="right" id="Terminal" order="8" weight="1.0" />
       <window_info id="Capture Tool" />
       <window_info id="Designer" />
-      <window_info content_ui="combo" id="Project" order="0" weight="0.5834598" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.30198914" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="6" weight="0.25" />
       <window_info id="UI Designer" />
@@ -296,8 +304,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ranges.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
+        <state relative-caret-position="56">
+          <caret line="7" column="68" selection-start-line="7" selection-start-column="68" selection-end-line="7" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/conditions.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="16" column="45" selection-start-line="16" selection-start-column="45" selection-end-line="16" selection-end-column="45" />
         </state>
       </provider>
     </entry>
